@@ -1,5 +1,5 @@
 %define kloxo /usr/local/lxlabs/kloxo/httpdocs/editor
-%define productname kloxong-editor
+%define productname kloxokr-editor
 %define packagename fckeditor
 %define sourcename %{packagename}
 
@@ -7,7 +7,7 @@ Name: %{productname}-%{packagename}
 Summary: Javascript WYSIWYG Editor 
 #Version: 2.4.3
 Version: 2.6.8
-Release: 8.kng%{?dist}
+Release: 8.kkr%{?dist}
 License: GPL
 URL: http://ckeditor.com/
 Group: Applications/Internet
